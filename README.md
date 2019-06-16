@@ -1,23 +1,18 @@
-#apt.txt
-
-#############################
 # ABOUT PENETRAITON TESTING #
-#############################
 
 website for Bug Bounty or Bug Hunter :
 
-https://hackerone.com (me : https://hackerone.com/microclone-hacktivist)
-https://www.bugcrowd.com
-https://www.redstorm.io
-https://www.antihack.me
-https://www.cyberarmy.id
+- https://hackerone.com (me : https://hackerone.com/microclone-hacktivist)
+- https://www.bugcrowd.com
+- https://www.redstorm.io
+- https://www.antihack.me
+- https://www.cyberarmy.id
 
+# Tool for Bug Hunter :
 
-Tool for Bug Hunter :
 BurpSuite, Owasp Zap, Dirsearch, XSStrike, Knoxss, XSShunter, Metasploit, Sublister, Aquatone, sqlmap, RED_HAWK, Acuentix, Netspraker, Whireshark, nmap, SET, PentestBox, PuTTY, BeEF, JTR, Kali Linux OS, ParrotSec OS
 
-
-Orang yang saya kenal dengan Pentester :
+# Orang yang saya kenal dengan Pentester :
 
 - Robin (rootbakar___)
 - Tomi (n00bSec)
@@ -27,12 +22,11 @@ Orang yang saya kenal dengan Pentester :
 - Santiago Lopez hacker from Argentina
 - todayisnew (Eric)
 
-
 Belajar Owasp
 Bahasa Pemrogramman
 CWE
 
-Jenis bug :
+# Jenis bug :
 
 Remote Code Execution
 SQL Injection
