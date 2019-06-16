@@ -2,7 +2,7 @@
 
 website for Bug Bounty or Bug Hunter :
 
-- https://hackerone.com (me : https://hackerone.com/microclone-hacktivist)
+- https://hackerone.com
 - https://www.bugcrowd.com
 - https://www.redstorm.io
 - https://www.antihack.me
@@ -28,16 +28,16 @@ CWE
 
 # Jenis bug :
 
-Remote Code Execution
-SQL Injection
-Cross Site Scripting
-XSS DOM
-XSS Generic
-XSS Reflected
-XSS Stored
-Open Redirect
-Command Injection
-Code Injection
+- Remote Code Execution
+- SQL Injection
+- Cross Site Scripting
+- XSS DOM
+- XSS Generic
+- XSS Reflected
+- XSS Stored
+- Open Redirect
+- Command Injection
+- Code Injection
 Server-Side Request Forgery (SSRF)
 CSRF (Cross-Site Request Forgery)
 Clickjacling
