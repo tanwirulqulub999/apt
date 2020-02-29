@@ -38,45 +38,45 @@ CWE
 - Open Redirect
 - Command Injection
 - Code Injection
-Server-Side Request Forgery (SSRF)
-CSRF (Cross-Site Request Forgery)
-Clickjacling
-SQLi Without quotes
-Underflow Indeks Array
-Brute Force
-Buffer Over-read
-Buffer Under-read
-Buffer Underflow
-Business Logic Errors
-CLRF Injection
-Classic Buffer Overflow
-Cleartext Storage of Sensitive Information
-Cleartext Transmission of Sensitive Information
-Client-Side Enforcement of Server-Side Security
-Command Injection - Generic
-Cryptographic Issues - Generic
-Denial of Service (DoS or DDoS)
-Deserialization of Untrusted Data
-Double Free
-Forced Browsing
-HTTP Request Smuggling
-HTTP Response Splitting
-Heap Overflow
-Improper Access Control - Generic
-Improper Authentication - Generic
-Improper Certificate Validation
-Improper Following of a Certificate's Chain of Trust
-Improper Neutralization of HTTP Headers for Scripting Syntax
-Improper Null Termination
-Inadequate Encryption Strength
-Incorrect Calculation of Buffer Size
-Information Disclosure
-Information Exposure Through Debug Information
-Information Exposure Through Directory Listing
-Information Exposure Through an Error Message
-Insecure Direct Object Reference (IDOR)
-Insecure Storage of Sensitive Information
-Insufficient Session Expiration
+- Server-Side Request Forgery (SSRF)
+- CSRF (Cross-Site Request Forgery)
+- Clickjacling
+- SQLi Without quotes
+- Underflow Indeks Array
+- Brute Force
+- Buffer Over-read
+- Buffer Under-read
+- Buffer Underflow
+- Business Logic Errors
+- CLRF Injection
+- Classic Buffer Overflow
+- Cleartext Storage of Sensitive Information
+- Cleartext Transmission of Sensitive Information
+- Client-Side Enforcement of Server-Side Security
+- Command Injection - Generic
+- Cryptographic Issues - Generic
+- Denial of Service (DoS or DDoS)
+- Deserialization of Untrusted Data
+- Double Free
+- Forced Browsing
+- HTTP Request Smuggling
+- HTTP Response Splitting
+- Heap Overflow
+- Improper Access Control - Generic
+- Improper Authentication - Generic
+- Improper Certificate Validation
+- Improper Following of a Certificate's Chain of Trust
+- Improper Neutralization of HTTP Headers for Scripting Syntax
+- Improper Null Termination
+- Inadequate Encryption Strength
+- Incorrect Calculation of Buffer Size
+- Information Disclosure
+- Information Exposure Through Debug Information
+- Information Exposure Through Directory Listing
+- Information Exposure Through an Error Message
+- Insecure Direct Object Reference (IDOR)
+- Insecure Storage of Sensitive Information
+- Insufficient Session Expiration
 Insufficiently Protected Credentials
 Integer Overflow
 Integer Underflow
@@ -99,33 +99,33 @@ Plaintext Storage of a Password
 Privacy Violation
 Privilege Escalation
 Reliance on Cookies without Validation and Integrity Checking in a Security Decision
-Remote File Inclusion
-Resource Injection
-Reusing a Nonce, Key Pair in Encryption
-Reversible One-Way Hash
-Security Through Obscurity
-Session Fixation
-Stack Overflow
-Storing Passwords in a Recoverable Format
-Type Confusion
-UI Redressing (Clickjacking)
-Unprotected Transport of Credentials
-Unverified Password Change
-Use After Free
-Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG)
-Use of Externally-Controlled Format String
-Use of Hard-coded Credentials
-Use of Hard-coded Cryptographic Key
-Use of Hard-coded Password
-Use of Inherently Dangerous Function
-Use of Insufficiently Random Values
-Use of a Broken or Risky Cryptographic Algorithm
-Use of a Key Past its Expiration Date
-Violation of Secure Design Principles
-Weak Cryptography for Passwords
-Weak Password Recovery Mechanism for Forgotten Password
-Wrap-around Error
-Write-what-where Condition
-XML Entity Expansion
-XML External Entities (XXE)
-XML Injection
+- Remote File Inclusion
+- Resource Injection
+- Reusing a Nonce, Key Pair in Encryption
+- Reversible One-Way Hash
+- Security Through Obscurity
+- Session Fixation
+- Stack Overflow
+- Storing Passwords in a Recoverable Format
+- Type Confusion
+- UI Redressing (Clickjacking)
+- Unprotected Transport of Credentials
+- Unverified Password Change
+- Use After Free
+- Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG)
+- Use of Externally-Controlled Format String
+- Use of Hard-coded Credentials
+- Use of Hard-coded Cryptographic Key
+- Use of Hard-coded Password
+- Use of Inherently Dangerous Function
+- Use of Insufficiently Random Values
+- Use of a Broken or Risky Cryptographic Algorithm
+- Use of a Key Past its Expiration Date
+- Violation of Secure Design Principles
+- Weak Cryptography for Passwords
+- Weak Password Recovery Mechanism for Forgotten Password
+- Wrap-around Error
+- Write-what-where Condition
+- XML Entity Expansion
+- XML External Entities (XXE)
+- XML Injection
