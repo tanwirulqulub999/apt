@@ -77,28 +77,28 @@ CWE
 - Insecure Direct Object Reference (IDOR)
 - Insecure Storage of Sensitive Information
 - Insufficient Session Expiration
-Insufficiently Protected Credentials
-Integer Overflow
-Integer Underflow
-Key Exchange without Entity Authentication
-LDAP Injection
-Leftover Debug Code (Backdoor)
-Malware
-Man-in-the-Middle
-Memory Corruption - Generic
-Missing Encryption of Sensitive Data
-Missing Required Cryptographic Step
-NULL Pointer Dereference
-OS Command Injection
-Off-by-one Error
-Out-of-bounds Read
-Password in Configuration File
-Path Traversal
-Phishing
-Plaintext Storage of a Password
-Privacy Violation
-Privilege Escalation
-Reliance on Cookies without Validation and Integrity Checking in a Security Decision
+- Insufficiently Protected Credentials
+- Integer Overflow
+- Integer Underflow
+- Key Exchange without Entity Authentication
+- LDAP Injection
+-  Leftover Debug Code (Backdoor)
+- Malware
+- Man-in-the-Middle
+- Memory Corruption - Generic
+- Missing Encryption of Sensitive Data
+- Missing Required Cryptographic Step
+- NULL Pointer Dereference
+- OS Command Injection
+- Off-by-one Error
+- Out-of-bounds Read
+- Password in Configuration File
+- Path Traversal
+- Phishing
+- Plaintext Storage of a Password
+- Privacy Violation
+- Privilege Escalation
+- Reliance on Cookies without Validation and Integrity Checking in a Security Decision
 - Remote File Inclusion
 - Resource Injection
 - Reusing a Nonce, Key Pair in Encryption
