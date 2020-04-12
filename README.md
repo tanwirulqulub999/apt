@@ -1,6 +1,6 @@
 # ABOUT PENETRAITON TESTING #
 
-bug bounty platform :
+bounty bug platform site :
 
 - https://hackerone.com
 - https://www.bugcrowd.com
@@ -19,8 +19,8 @@ BurpSuite, Owasp Zap, Dirsearch, XSStrike, Knoxss, XSShunter, Metasploit, Sublis
 - Putra Aji Adhari
 - apapedulimu
 - Eka Syahwan
-- Santiago Lopez
-- todayisnew (Eric)
+- [Santiago Lopez](https://hackerone.com/try_to_hack)
+- [todayisnew (Eric)](https://hackerone.com/todayisnew)
 
 learn Owasp,
 programming,
