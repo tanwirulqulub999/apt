@@ -22,13 +22,13 @@ BurpSuite, Owasp Zap, Dirsearch, XSStrike, Knoxss, XSShunter, Metasploit, Sublis
 - Santiago Lopez
 - todayisnew (Eric)
 
-Belajar Owasp,
-Bahasa Pemrogramman,
+learn Owasp,
+programming,
 CWE,
 CVE,
 etc.
 
-# Jenis bug :
+# type of method :
 
 - Remote Code Execution
 - SQL Injection
