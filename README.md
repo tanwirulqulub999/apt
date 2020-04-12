@@ -12,29 +12,31 @@ website for Bug Bounty or Bug Hunter :
 
 BurpSuite, Owasp Zap, Dirsearch, XSStrike, Knoxss, XSShunter, Metasploit, Sublister, Aquatone, sqlmap, RED_HAWK, Acuentix, Netspraker, Whireshark, nmap, SET, PentestBox, PuTTY, BeEF, JTR, Kali Linux OS, ParrotSec OS
 
-# Orang yang saya kenal dengan Pentester :
+# People I know Pentester :
 
 - Robin (rootbakar___)
 - Tomi (n00bSec)
 - Putra Aji Adhari
 - apapedulimu
 - Eka Syahwan
-- Santiago Lopez hacker from Argentina
+- Santiago Lopez
 - todayisnew (Eric)
 
-Belajar Owasp
-Bahasa Pemrogramman
-CWE
+Belajar Owasp,
+Bahasa Pemrogramman,
+CWE,
+CVE,
+etc.
 
 # Jenis bug :
 
 - Remote Code Execution
 - SQL Injection
 - Cross Site Scripting
-- XSS DOM
-- XSS Generic
 - XSS Reflected
 - XSS Stored
+- XSS DOM
+- XSS Generic
 - Open Redirect
 - Command Injection
 - Code Injection
@@ -82,7 +84,7 @@ CWE
 - Integer Underflow
 - Key Exchange without Entity Authentication
 - LDAP Injection
--  Leftover Debug Code (Backdoor)
+- Leftover Debug Code (Backdoor)
 - Malware
 - Man-in-the-Middle
 - Memory Corruption - Generic
