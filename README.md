@@ -1,6 +1,6 @@
 # ABOUT PENETRAITON TESTING #
 
-website for Bug Bounty or Bug Hunter :
+bug bounty platform :
 
 - https://hackerone.com
 - https://www.bugcrowd.com
