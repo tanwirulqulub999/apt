@@ -8,7 +8,7 @@ website for Bug Bounty or Bug Hunter :
 - https://www.antihack.me
 - https://www.cyberarmy.id
 
-# Tool for Bug Hunter :
+# Tool :
 
 BurpSuite, Owasp Zap, Dirsearch, XSStrike, Knoxss, XSShunter, Metasploit, Sublister, Aquatone, sqlmap, RED_HAWK, Acuentix, Netspraker, Whireshark, nmap, SET, PentestBox, PuTTY, BeEF, JTR, Kali Linux OS, ParrotSec OS
 
