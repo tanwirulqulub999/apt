@@ -131,3 +131,6 @@ etc.
 - XML Entity Expansion
 - XML External Entities (XXE)
 - XML Injection
+
+##contact
+- telegram : @thebeautifulfuturewarrior
